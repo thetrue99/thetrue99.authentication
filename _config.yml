@@ -1,0 +1,8 @@
+locale                   : "en-US"
+title                    : "theTRUE Authentication Page"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "thetrue"
+description              : "Authentication Page for NC"
+url                      : "http://thetrue99.github.io"
+baseurl                  : ""
